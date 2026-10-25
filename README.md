@@ -1,4 +1,4 @@
-## 💻 Developer Mindset
+## The Thought Behind the Code
 
 > Every commit is a conversation between who I am and the engineer I'm becoming.
 <!--
