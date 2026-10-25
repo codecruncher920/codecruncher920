@@ -1,4 +1,6 @@
-## Hi there 👋
+## 💻 Developer Mindset
+
+> Learning in public. Building in open source. Growing one commit at a time.
 
 <!--
 **codecruncher920/codecruncher920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
